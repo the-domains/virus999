@@ -1,7 +1,21 @@
+layout_spectrum: 0.437276
+name: Virus999
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+typography_spectrum: 0.5151771
 color:
-  saturation: 0.7168459
   brandStrength: 0.7585618
-  rhythmicContrast: 0.421147
+  saturation: 0.7168459
   brandColors:
     - '#151517'
     - '#F4F5F3'
@@ -9,18 +23,4 @@ color:
     - '#646466'
     - '#D0A390'
   lightness: 1
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.437276
-typography_spectrum: 0.1863037
-name: Virus999
+  rhythmicContrast: 0.421147
