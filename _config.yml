@@ -1,4 +1,4 @@
-layout_spectrum: 0.437276
+layout_spectrum: 0.7190238
 name: Virus999
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-typography_spectrum: 0.5151771
 color:
-  brandStrength: 0.7585618
+  brandStrength: 0.2709637
+  lightness: 1
   saturation: 0.7168459
+  rhythmicContrast: 0.421147
   brandColors:
     - '#151517'
     - '#F4F5F3'
     - '#CFCFBC'
     - '#646466'
     - '#D0A390'
-  lightness: 1
-  rhythmicContrast: 0.421147
+typography_spectrum: 0.8028786
